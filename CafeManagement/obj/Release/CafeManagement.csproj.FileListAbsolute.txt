@@ -1,0 +1,14 @@
+C:\Users\prince.patel\Desktop\Projects\CafeBillingSystem_C#\CafeBillingSystem\CafeManagement\bin\Release\CafeManagement.exe.config
+C:\Users\prince.patel\Desktop\Projects\CafeBillingSystem_C#\CafeBillingSystem\CafeManagement\bin\Release\CafeManagement.exe.manifest
+C:\Users\prince.patel\Desktop\Projects\CafeBillingSystem_C#\CafeBillingSystem\CafeManagement\bin\Release\CafeManagement.application
+C:\Users\prince.patel\Desktop\Projects\CafeBillingSystem_C#\CafeBillingSystem\CafeManagement\bin\Release\CafeManagement.exe
+C:\Users\prince.patel\Desktop\Projects\CafeBillingSystem_C#\CafeBillingSystem\CafeManagement\bin\Release\CafeManagement.pdb
+C:\Users\prince.patel\Desktop\Projects\CafeBillingSystem_C#\CafeBillingSystem\CafeManagement\obj\Release\CafeManagement.csproj.AssemblyReference.cache
+C:\Users\prince.patel\Desktop\Projects\CafeBillingSystem_C#\CafeBillingSystem\CafeManagement\obj\Release\CafeManagement.Form1.resources
+C:\Users\prince.patel\Desktop\Projects\CafeBillingSystem_C#\CafeBillingSystem\CafeManagement\obj\Release\CafeManagement.Properties.Resources.resources
+C:\Users\prince.patel\Desktop\Projects\CafeBillingSystem_C#\CafeBillingSystem\CafeManagement\obj\Release\CafeManagement.csproj.GenerateResource.cache
+C:\Users\prince.patel\Desktop\Projects\CafeBillingSystem_C#\CafeBillingSystem\CafeManagement\obj\Release\CafeManagement.csproj.CoreCompileInputs.cache
+C:\Users\prince.patel\Desktop\Projects\CafeBillingSystem_C#\CafeBillingSystem\CafeManagement\obj\Release\CafeManagement.exe.manifest
+C:\Users\prince.patel\Desktop\Projects\CafeBillingSystem_C#\CafeBillingSystem\CafeManagement\obj\Release\CafeManagement.application
+C:\Users\prince.patel\Desktop\Projects\CafeBillingSystem_C#\CafeBillingSystem\CafeManagement\obj\Release\CafeManagement.exe
+C:\Users\prince.patel\Desktop\Projects\CafeBillingSystem_C#\CafeBillingSystem\CafeManagement\obj\Release\CafeManagement.pdb
